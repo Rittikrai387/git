@@ -709,7 +709,7 @@ a `git gc` command on the origin repository.
 include::transfer-data-leaks.adoc[]
 
 CONFIGURATION[[CONFIGURATION]]
--------------
+------------------------------
 
 include::includes/cmd-config-section-all.adoc[]
 
